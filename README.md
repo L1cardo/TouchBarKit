@@ -52,8 +52,12 @@ DFRElementSetControlStripPresenceForIdentifier(touchBarIdentifier, true)
    
    ![image](images/7.png)
 
+## Related
+
+- [ClockBar](https://github.com/L1cardo/ClockBar) - Clock, right on the Touch Bar
+
+- [DarkLight](https://github.com/L1cardo/DarkLight) - Switch between Dark and Light mode with an ease
+
 ## Thanks
 
 Big thanks to [Alexsander Akers](https://github.com/a2) and his project [touch-baer](https://github.com/a2/touch-baer)
-
-
